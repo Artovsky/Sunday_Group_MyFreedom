@@ -1,0 +1,19 @@
+input {
+    width: 100px;
+    height: 40px;
+    font-size: 16px;
+    background: orange;
+    border: 2px solid black;
+    font-weight: 700;
+    padding-left: 10px;
+}
+
+#sign{
+    width: 50px;
+    height: 30px;
+    font-size: 20px;
+}
+
+#res {
+    font-size: 30px;
+}
